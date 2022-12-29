@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jesús Quevedo</h1>
 <h3 align="center">Developer/DevOps Eng.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jquevedo1196&label=Profile%20views&color=0e75b6&style=flat" alt="jquevedo1196" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jquevedo1196&label=Profile%20views&color=0e75b6&style=flat" alt="jquevedo1196" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jquevedo1196" alt="jquevedo1196" /></a> </p>
 
-- 🔭 I’m currently working on **Macropay as DevOps Lead Eng. **
+- 🔭 I’m currently working on **Macropay as DevOps Lead Eng.**
 
 - 🌱 I’m currently learning **Deep K8s and EKS**
 
@@ -17,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="54" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="54" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" width="54" alt="dart logo"  />
+  <a href="https://linkedin.com/in/jesús-quevedo-torres-34426099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús-quevedo-torres-34426099" height="30" width="40" /></a>
+<a href="https://fb.com/jqvdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jqvdo" height="30" width="40" /></a>
+  <a href="https://instagram.com/jqvdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jqvdo" height="30" width="40" /></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
