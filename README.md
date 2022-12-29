@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jquevedo1196.github.io/portafolio/](https://jquevedo1196.github.io/portafolio/)
 
-- 💬 Ask me about **Docker, Jenkins, Java(Spring), SQL**
+- 💬 Ask me about **Docker, Kubernetes, Jenkins, Java(Spring), SQL**
 
 - 📫 How to reach me **jenrique_qt@hotmail.com**
 
