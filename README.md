@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesús Quevedo</h1>
-<h3 align="center">Developer/DevOps Eng.</h3>
+<h3 align="center">DevOps/SRE Eng</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jquevedo1196&label=Profile%20views&color=0e75b6&style=flat" alt="jquevedo1196" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jquevedo1196" alt="jquevedo1196" /></a> </p>
@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Deep K8s and EKS**
 
-- 👨‍💻 All of my projects are available at [https://jquevedo1196.github.io/portafolio/](https://jquevedo1196.github.io/portafolio/)
+- 👨‍💻 All of my projects are available at [https://jquevedo1196.github.io/portafolio/](https://jquevedo1196.github.io/portafolio/) (outdated)
 
-- 💬 Ask me about **Docker, Kubernetes, Jenkins, Java(Spring), AWS**
+- 💬 Ask me about **Docker, Kubernetes, Jenkins, Java(Spring), AWS, Python and Terraform**
 
-- 📫 How to reach me **jenrique_qt@hotmail.com**
+- 📫 How to reach me **jenriqueqt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
